@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Job Experience : WPF 2+ years
+Job Experience : WPF 2+ years, Embedded Linux ongoing(from 2022/06) <br>
 Interests in : Backend, VR, etc
 <!--
 **yu4321/yu4321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
